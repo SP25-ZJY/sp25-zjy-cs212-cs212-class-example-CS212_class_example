@@ -1,6 +1,6 @@
-package lecture_note_a;
+package lecture_note_0_1;
 
-public class Hello {
+public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello CS212");
     }
