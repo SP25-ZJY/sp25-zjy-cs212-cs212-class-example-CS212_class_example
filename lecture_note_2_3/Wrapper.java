@@ -1,4 +1,4 @@
-package lecture_note_2_3_4;//Wrapper.java
+package lecture_note_2_3;//Wrapper.java
 
 public class Wrapper {
     public static void main( String [] args )    {

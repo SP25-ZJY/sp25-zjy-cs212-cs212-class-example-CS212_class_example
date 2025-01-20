@@ -1,4 +1,4 @@
-package lecture_note_2_3_4;
+package lecture_note_2_3;
 
 //MyString.java
 public class MyString {

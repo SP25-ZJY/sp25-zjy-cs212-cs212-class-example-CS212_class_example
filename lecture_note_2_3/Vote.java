@@ -1,4 +1,4 @@
-package lecture_note_2_3_4;//Vote.java
+package lecture_note_2_3;//Vote.java
 //import Scanner class to use input methods
 import java.util.Scanner;
 

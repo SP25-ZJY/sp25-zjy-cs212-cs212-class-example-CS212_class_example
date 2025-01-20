@@ -1,4 +1,4 @@
-package lecture_note_2_3_4;//FormatString.java
+package lecture_note_2_3;//FormatString.java
 //import DecimalFormat class
 import java.text.DecimalFormat;
 
