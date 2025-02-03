@@ -10,10 +10,10 @@
     - **Constructor**
 
         - **`Purpose:`** [Describe its purpose]
-        - **`Parameter:`** `[List of parameters and their types]`
-        ----
+        - **`Parameter:`** [List of parameters and their types]
+        <br><br>
         - **`Purpose:`** [Describe its purpose]
-        - **`Parameter:`** `[List of parameters and their types]`
+        - **`Parameter:`** [List of parameters and their types]
         - ...
 
     - **Methods**
@@ -27,7 +27,7 @@
             1. Step 1 description
             2. Step 2 description
             3. ...
-
+        <br><br>
         - **`Name:`** [Method Name]
         - **`Purpose:`** [Describe what this method does]
         - **`Parameter:`** [List of parameters and their types]
