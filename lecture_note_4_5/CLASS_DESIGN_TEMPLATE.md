@@ -37,4 +37,5 @@
             1. Step 1 description
             2. Step 2 description
             3. ...
-        ----
+      
+- This will be your template in the future too
